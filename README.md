@@ -2,7 +2,7 @@
 
 ## Description
 
-The User Behavior Analytics Tool is a Python program designed to automate the analysis of platform usage data for qualitative UX research using the CLI. Developed during my tenure at a tech company relying on manual and qualitative UX research practices, this tool aims to provide meaningful insights and targeted statistics to enhance the organization's understanding of user behavior.
+The User Behavior Analytics Tool is a Python program designed to automate the analysis of platform usage data for quantitative UX research using the CLI. Developed during my tenure at a tech company relying on manual and qualitative UX research practices, this tool aims to provide meaningful insights and targeted statistics to enhance the organization's understanding of user behavior.
 
 The tool takes input data in the form of CSV files containing platform usage data and generates a comprehensive set of statistics that support UX research efforts. By automating the process of extracting insights from usage data, this tool streamlines the analysis process and facilitates data-driven decision-making.
 
@@ -48,7 +48,7 @@ Follow these steps to get started with the User Behavior Analytics Tool:
 
 5. Run the tool:
    ```
-   python analyze_behavior.py
+   python platform_usage_metrics.py
    ```
 
 6. View the generated report in the `output` directory for insights into user behavior.
