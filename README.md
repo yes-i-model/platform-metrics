@@ -25,6 +25,12 @@ The tool takes input data in the form of CSV files containing platform usage dat
 
 4. **Output Generation**: The tool compiles the calculated statistics into a comprehensive report, presenting an overview of user behavior trends and patterns.
 
+## Reports
+
+The `reports` folder included in this repository contains anonymized reports generated using the User Behavior Analytics Tool. These reports have been prepared to communicate metrics and insights derived from the analyzed platform usage data. To ensure security and privacy, all data within these reports has been anonymized.
+
+Feel free to explore these reports to gain a better understanding of how the tool can help communicate meaningful information to stakeholders and support decision-making processes within the organization.
+
 ## Getting Started
 
 Follow these steps to get started with the User Behavior Analytics Tool:
@@ -65,5 +71,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 By Nicolas Pascale
+
+
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nicolas-pascale-b19161125/) 
