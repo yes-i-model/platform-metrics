@@ -31,34 +31,6 @@ The `reports` folder included in this repository contains anonymized reports gen
 
 Feel free to explore these reports to gain a better understanding of how the tool can help communicate meaningful information to stakeholders and support decision-making processes within the organization.
 
-## Getting Started
-
-Follow these steps to get started with the User Behavior Analytics Tool:
-
-1. Clone this repository to your local machine using the following command:
-   ```
-   git clone https://github.com/your-username/user-behavior-analytics.git
-   ```
-
-2. Navigate to the project directory:
-   ```
-   cd user-behavior-analytics
-   ```
-
-3. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-4. Prepare your CSV files containing platform usage data and place them in the `data` directory.
-
-5. Run the tool:
-   ```
-   python platform_usage_metrics.py
-   ```
-
-6. View the generated report in the `output` directory for insights into user behavior.
-
 
 ## Contributions
 
